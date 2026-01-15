@@ -1,1 +1,18 @@
-# Alzheimer-Disease-Classification-
+# Alzheimer Disease Classification
+## 📑 Table of Contents
+- [Project Overview](#project-overview)
+- [Problem Statement](#problem-statement)
+- [Dataset](#dataset)
+- [Methodology](#methodology)
+  - [Data Preprocessing](#data-preprocessing)
+  - [Feature Extraction](#feature-extraction)
+  - [Modeling](#modeling)
+  - [Evaluation](#evaluation)
+- [Results](#results)
+- [Visualizations](#visualizations)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Technologies Used](#technologies-used)
+- [Future Work](#future-work)
+- [Acknowledgements](#acknowledgements)
